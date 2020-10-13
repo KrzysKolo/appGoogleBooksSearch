@@ -1,4 +1,4 @@
-<a href="https://github.com/KrzysKolo/appGoogleBooksSearch/blob/master/public/index.html">DEMO</a>
+
 ## Available Scripts
 
 In the project directory, you can run:
