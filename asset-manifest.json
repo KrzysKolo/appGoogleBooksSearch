@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/git@github.com:KrzysKolo/appGoogleBooksSearch.git/static/css/main.7344657f.chunk.css",
+    "main.js": "/git@github.com:KrzysKolo/appGoogleBooksSearch.git/static/js/main.a7e41b74.chunk.js",
+    "main.js.map": "/git@github.com:KrzysKolo/appGoogleBooksSearch.git/static/js/main.a7e41b74.chunk.js.map",
+    "runtime-main.js": "/git@github.com:KrzysKolo/appGoogleBooksSearch.git/static/js/runtime-main.c7ebb51f.js",
+    "runtime-main.js.map": "/git@github.com:KrzysKolo/appGoogleBooksSearch.git/static/js/runtime-main.c7ebb51f.js.map",
+    "static/js/2.c97f7b1c.chunk.js": "/git@github.com:KrzysKolo/appGoogleBooksSearch.git/static/js/2.c97f7b1c.chunk.js",
+    "static/js/2.c97f7b1c.chunk.js.map": "/git@github.com:KrzysKolo/appGoogleBooksSearch.git/static/js/2.c97f7b1c.chunk.js.map",
+    "index.html": "/git@github.com:KrzysKolo/appGoogleBooksSearch.git/index.html",
+    "precache-manifest.61c71f34a98c23604a8c5e0a643d9399.js": "/git@github.com:KrzysKolo/appGoogleBooksSearch.git/precache-manifest.61c71f34a98c23604a8c5e0a643d9399.js",
+    "service-worker.js": "/git@github.com:KrzysKolo/appGoogleBooksSearch.git/service-worker.js",
+    "static/css/main.7344657f.chunk.css.map": "/git@github.com:KrzysKolo/appGoogleBooksSearch.git/static/css/main.7344657f.chunk.css.map",
+    "static/js/2.c97f7b1c.chunk.js.LICENSE.txt": "/git@github.com:KrzysKolo/appGoogleBooksSearch.git/static/js/2.c97f7b1c.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/git@github.com:KrzysKolo/appGoogleBooksSearch.git/static/media/bg.1be2d3a0.jpg",
+    "static/media/logo.png": "/git@github.com:KrzysKolo/appGoogleBooksSearch.git/static/media/logo.48650bfe.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c7ebb51f.js",
+    "static/js/2.c97f7b1c.chunk.js",
+    "static/css/main.7344657f.chunk.css",
+    "static/js/main.a7e41b74.chunk.js"
+  ]
+}
